@@ -1,0 +1,16 @@
+Website Name: Luxury Cars
+
+Sections:
+1. Home - Hero image with slogan
+2. Models - Featured cars
+3. Collection - Categories: Luxury Sedans, Sports Cars, SUVs, Electric Cars
+4. Blog - 3 recent articles about luxury cars, EVs, and maintenance
+5. About - Short brand description
+6. Contact - Simple form
+7. Footer - Copyright
+
+Theme:
+- Background: Black/Dark Gray
+- Accent: Red (#e50914)
+- Text: White
+- Font: Poppins
